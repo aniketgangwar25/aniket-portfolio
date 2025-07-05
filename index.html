@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aniket | Cyber Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="hero">
+    <img src="images/profile.jpg" alt="Aniket Gangwar" class="profile-pic">
+    <h1><span class="typed"></span></h1>
+    <p>Cybersecurity Enthusiast | Developer | Terminal Ninja</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#certs">Certifications</a>
+    <a href="#projects">Projects</a>
+    <a href="#resume">Resume</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m Aniket Gangwar, a BCA graduate with a strong passion for cybersecurity and full-stack development. I love exploring Linux, breaking into networks (ethically!), and building secure web applications using Node.js.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>💻 Node.js, Express, Java, JavaFX</li>
+      <li>🛠️ Kali Linux, Termux, ADB, binwalk, Steghide</li>
+      <li>📊 Microsoft Excel, MySQL, MariaDB</li>
+      <li>🌐 HTML, CSS (custom), JavaScript</li>
+    </ul>
+  </section>
+
+  <section id="certs">
+    <h2>Certifications</h2>
+    <ul>
+      <li>🔒 Introduction to Cybersecurity – Cisco Networking Academy</li>
+      <li>🌐 Full-Stack Web Development – Virtual Badge</li>
+      <li>📊 Excel Basics – <a href="https://coursera.org/verify/Q7ABX9WQ62HF" target="_blank">Coursera</a></li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>🔐 Private Notes App</h3>
+      <p>Secure note-saving app with authentication and email password reset. Built using Node.js and Outlook API.</p>
+      <a href="#" target="_blank">View Demo</a>
+    </div>
+    <div class="project">
+      <h3>🚗 Car Pooling System</h3>
+      <p>JavaFX-based desktop app for car sharing. Runs on Termux using MariaDB.</p>
+      <a href="#" target="_blank">View Demo</a>
+    </div>
+    <div class="project">
+      <h3>📡 Wi-Fi Cracking Lab</h3>
+      <p>Educational project to capture and analyze WPA/WPA2 handshakes using Kali tools like Aircrack-ng.</p>
+    </div>
+  </section>
+
+  <section id="resume">
+    <h2>Download Resume</h2>
+    <p><a href="resume/AniketGangwar_Resume.pdf" download class="resume-btn">📄 Download My Resume</a></p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form action="https://formspree.io/f/mnqkdzzj" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="email" placeholder="Your Email" required>
+      <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+    <p>Email: <a href="mailto:aniket@example.com">aniket@example.com</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Aniket Gangwar | Built with 💻 & 🧠</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  <script>
+    const options = {
+      strings: ["Hello, I'm Aniket", "I break & build things (securely)", "Cybersecurity | Code | Coffee"],
+      typeSpeed: 50,
+      backSpeed: 25,
+      loop: true
+    };
+    new Typed(".typed", options);
+  </script>
+</body>
+</html>
