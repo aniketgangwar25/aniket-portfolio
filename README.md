@@ -55,13 +55,13 @@ I’m a BCA graduate (2024) and cybersecurity enthusiast who loves breaking and 
 
 ## 📫 Contact
 
-- 📧 Email: [aniket@example.com](mailto:aniket@example.com)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: [aniketgangwar25@gmail.com](mailto:aniketgangwar25@gmail.com)  
+- 🐙 GitHub: [github.com/yourusername](https://github.com/aniketgangwar25)
 
 ---
 
 ## 🚀 License
 
-This project is open-source and free to use. Built with 💻 & 🧠 by [Aniket Gangwar](mailto:aniket@example.com)
+This project is open-source and free to use. Built with 💻 & 🧠 by [Aniket Gangwar](mailto:aniketgangwar25@gmail.com)
 
 ---
