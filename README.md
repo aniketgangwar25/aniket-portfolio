@@ -56,7 +56,7 @@ I’m a BCA graduate (2024) and cybersecurity enthusiast who loves breaking and 
 ## 📫 Contact
 
 - 📧 Email: [aniketgangwar25@gmail.com](mailto:aniketgangwar25@gmail.com)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/aniketgangwar25)
+- 🐙 GitHub: [github.com/aniketgangwar25](https://github.com/aniketgangwar25)
 
 ---
 
